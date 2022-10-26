@@ -1,4 +1,4 @@
-### Hi there 👋
+My name is Nurfatihah Binti Othman.I am a computer science student in USM.
 
 <!--
 **fatihahothman/fatihahothman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
